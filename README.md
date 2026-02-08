@@ -27,12 +27,10 @@
 ### 📝
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Google Sheets](	https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-<br><br><br><br><br><br><br>
+
+<br><br><br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rladbsgn4909)](https://solved.ac/백준아이디/)
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=WhooGeek&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhooGeek&layout=compact&theme=tokyonight)
 
 
 
