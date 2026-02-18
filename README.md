@@ -30,8 +30,7 @@
 ![Google Sheets](	https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ### TEST
-<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
-<img src="https://img.shields.io/badge/playwright-25A162?style=for-the-badge&logoColor=white">
+<img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"> <img src="https://img.shields.io/badge/playwright-25A162?style=for-the-badge&logoColor=white">
 
 
 <br><br><br>
